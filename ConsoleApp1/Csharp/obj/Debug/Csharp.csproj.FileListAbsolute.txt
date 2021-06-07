@@ -1,0 +1,10 @@
+C:\Users\shrad\source\repos\ConsoleApp1\Csharp\bin\Debug\Csharp.exe.config
+C:\Users\shrad\source\repos\ConsoleApp1\Csharp\bin\Debug\Csharp.exe
+C:\Users\shrad\source\repos\ConsoleApp1\Csharp\bin\Debug\Csharp.pdb
+C:\Users\shrad\source\repos\ConsoleApp1\Csharp\obj\Debug\Csharp.csprojAssemblyReference.cache
+C:\Users\shrad\source\repos\ConsoleApp1\Csharp\obj\Debug\Csharp.csproj.CoreCompileInputs.cache
+C:\Users\shrad\source\repos\ConsoleApp1\Csharp\obj\Debug\Csharp.exe
+C:\Users\shrad\source\repos\ConsoleApp1\Csharp\obj\Debug\Csharp.pdb
+C:\Users\shrad\source\repos\ConsoleApp1\Csharp\bin\Debug\MathLibrary1.dll
+C:\Users\shrad\source\repos\ConsoleApp1\Csharp\bin\Debug\MathLibrary1.pdb
+C:\Users\shrad\source\repos\ConsoleApp1\Csharp\obj\Debug\Csharp.csproj.CopyComplete

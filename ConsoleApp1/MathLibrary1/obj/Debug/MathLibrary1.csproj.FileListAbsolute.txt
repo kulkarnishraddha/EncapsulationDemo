@@ -1,0 +1,6 @@
+C:\Users\shrad\source\repos\ConsoleApp1\MathLibrary1\bin\Debug\MathLibrary1.dll
+C:\Users\shrad\source\repos\ConsoleApp1\MathLibrary1\bin\Debug\MathLibrary1.pdb
+C:\Users\shrad\source\repos\ConsoleApp1\MathLibrary1\obj\Debug\MathLibrary1.csprojAssemblyReference.cache
+C:\Users\shrad\source\repos\ConsoleApp1\MathLibrary1\obj\Debug\MathLibrary1.csproj.CoreCompileInputs.cache
+C:\Users\shrad\source\repos\ConsoleApp1\MathLibrary1\obj\Debug\MathLibrary1.dll
+C:\Users\shrad\source\repos\ConsoleApp1\MathLibrary1\obj\Debug\MathLibrary1.pdb

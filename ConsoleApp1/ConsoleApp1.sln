@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31313.79
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{FDBFDE16-F450-41DF-81B0-462A512E18DD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Csharp", "Csharp\Csharp.csproj", "{CB967E40-F92F-43D7-975C-59A0C77917C7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MathLibrary1", "MathLibrary1\MathLibrary1.csproj", "{C85ED4FD-0523-481D-BCAE-403415CAAB77}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FDBFDE16-F450-41DF-81B0-462A512E18DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDBFDE16-F450-41DF-81B0-462A512E18DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDBFDE16-F450-41DF-81B0-462A512E18DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDBFDE16-F450-41DF-81B0-462A512E18DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CB967E40-F92F-43D7-975C-59A0C77917C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CB967E40-F92F-43D7-975C-59A0C77917C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CB967E40-F92F-43D7-975C-59A0C77917C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CB967E40-F92F-43D7-975C-59A0C77917C7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C85ED4FD-0523-481D-BCAE-403415CAAB77}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C85ED4FD-0523-481D-BCAE-403415CAAB77}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C85ED4FD-0523-481D-BCAE-403415CAAB77}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C85ED4FD-0523-481D-BCAE-403415CAAB77}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7ADE7266-33F2-4BBF-97BA-63B58A014183}
+	EndGlobalSection
+EndGlobal
